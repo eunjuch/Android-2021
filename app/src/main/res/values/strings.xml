@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Presentime</string>
+    <string name="introduce">측정할 문장을 입력하세요.</string>
+    <string name="measurement"> 0 m 0 s</string>
+    <string name="enter">enter</string>
+    <string name="check_time">check time</string>
+
+    <string name="info1">소요 시간 예측을 위해\n발화 시간을 측정합니다.</string>
+    <string name="info2">start버튼을 누르고 예시문을 읽어보세요.\nstop버튼을 눌러 측정을 종료하세요.</string>
+    <string name="sentence">
+        Hello, I am (your name).\n
+        In this presentation, I\'m going to introduce \"Mobile Application.\"\n
+        Thank you for your listening.
+    </string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="go_to_main">go to main</string>
+</resources>
